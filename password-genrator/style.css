@@ -47,3 +47,21 @@ body{
     outline: 0;
     font-size: 24px;
 }
+.card button img{
+    width: 28px;
+    margin-right: 10px;
+
+}
+.card button {
+    border: 0;
+    outline: 0;
+    background: rgb(122, 235, 169);
+    color: white;
+    font-size: 22px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 26px;
+    
+}
